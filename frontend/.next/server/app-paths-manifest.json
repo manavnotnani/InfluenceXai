@@ -1,0 +1,5 @@
+{
+  "/brand-signup/page": "app/brand-signup/page.js",
+  "/create-deal/page": "app/create-deal/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
+}
