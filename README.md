@@ -47,9 +47,9 @@ We welcome contributions to InfluenceXai! Feel free to submit bug reports, featu
 
 ## Authors
 
-- Manav Notanani - Frontend Developer / Smart Contract Developer
-- Karan Goel - Backend Developer
-- Sahil Jaithal - Backend Developer
+- [Manav Notanani](https://github.com/manavnotnani/) - Frontend Developer / Smart Contract Developer
+- [Karan Goel](https://github.com/kgoel085/) - Backend Developer 
+- [Sahil Jaithal](https://github.com/dracosahil179/) - Backend Developer
 
 ## License
 
@@ -61,7 +61,9 @@ We would like to thank all contributors and supporters who have helped make Infl
 
 ## Contracts
 
-NEOX Smart Contract:
+**NEOX Smart Contract:**
+
 RPC url: https://neoxt4seed1.ngd.network
+
 InfluenceXaiAddress: 0x4fC27c7F276D19b1A711747635CB63652119aACd
 RewardReleaseAddress: 0x2876b91D555e8A32e308CA051d1276b590e60dbc
