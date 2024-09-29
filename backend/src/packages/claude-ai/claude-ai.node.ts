@@ -11,7 +11,7 @@ export class ClaudeAiNodeService {
   private async initClient() {
     this.anthropicClient = new Anthropic({
       apiKey:
-        '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',
+        '',
     });
   }
 
